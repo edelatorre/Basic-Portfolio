@@ -3,7 +3,7 @@ body{
     margin:0; 
     padding:0; 
     font-size:13px; 
-    font-family:Georgia, "Times New Roman", Times, serif; 
+    font-family: Georgia, 'Times New Roman', Times, serif; 
     color:#919191; background-color:#ededed;
 }
 
@@ -104,7 +104,7 @@ div.wrapper{
     width:940px; 
     margin:0px auto 0px auto; 
     padding:10px; 
-    text-align:left;
+    text-align:justify;
 }
 
 div.logo{
@@ -186,8 +186,8 @@ input, textarea, select{font-size:12px; font-family:Georgia,"Times New Roman",Ti
 #container #homepage #intro article figure img{float:left; margin:0 0 10px 0; padding:4px; border:1px solid #D6D6D6;}
 #container #homepage #intro article figure figcaption{
     float:left; 
-    width:460px;
-    margin-left: 30px;
+    width:530px;
+    margin-left: 60px;
 }
 
 #titulo{
