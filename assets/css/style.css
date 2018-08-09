@@ -190,6 +190,10 @@ input, textarea, select{font-size:12px; font-family:Georgia,"Times New Roman",Ti
     margin-left: 60px;
 }
 
+#container form{
+    text-align: left;
+}
+
 #titulo{
     color: #4aaaa5
 }
